@@ -1,5 +1,5 @@
 ## Hello from ali
 
-Hello
+Hello all
 
 editing readme
